@@ -1,0 +1,39 @@
+/* Custom CSS for Pyschic Game */
+
+
+.outside {
+	position: fixed;
+	padding: 25%;
+	text-align: center;
+	background: url('../images/psychic-ability.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-left: 15%;
+	margin-bottom: 100%;
+}
+
+h1 {
+	font-size: 44px;
+	font-weight: bolder;
+	font-family: sans-serif;
+	line-height: 50px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: lighter;
+	line-height: 30px;
+	color: white;
+	text-align: center;
+}
+
+p {
+	line-height: 20px;
+	font-size: 18px;
+	font-family: sans-serif;
+	color: white;
+	text-align: center;
+}
